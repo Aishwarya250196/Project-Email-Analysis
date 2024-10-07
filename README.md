@@ -23,7 +23,7 @@ The organization is encountering server memory problems due to an influx of emai
 
 1. **Data Preparation**:
    - Create a dataset of email addresses, including a mix of valid and invalid email addresses and domains.
-   - Store this data in a file format that is easy to process (e.g., CSV or TXT).
+   - Store this data in a file format that is easy to process (e.g., JSON or TXT).
 
 2. **Analysis and Processing**:
    - Use Python to read the dataset and process the email addresses.
